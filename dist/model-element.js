@@ -1,5 +1,4 @@
-//! 3D Model Element v1.0.2 | (C) Keith Clark | MIT | https://github.com/keithclark/3d-model-element
-
+//! 3D Model Element v$npm_package_version | (C) $npm_package_author_name | $npm_package_license | $npm_package_homepage
 (function () {
   'use strict';
 
